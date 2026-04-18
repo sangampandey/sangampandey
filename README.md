@@ -46,20 +46,17 @@ Enterprise AI Strategy  ──▶  Agent Architecture  ──▶  Production Dep
 
 ## Featured Projects
 
-### 🧬 [cursor-templates](https://github.com/sangampandey/cursor-templates)
+### 📐 [genaipatterns.dev](https://genaipatterns.dev/)
+Production patterns and infographic series for GenAI system design — covering orchestrator/worker architectures, dark factory harness engineering, agent moats, and more.
+
+### ⚡ [vibecoding.ae](https://vibecoding.ae)
+A platform and community for rapid AI-assisted product development in the region — weekly content drops, dev previews, and build-in-public resources.
+
+### 🧬 [cursor-templates](https://cursor-templates.vercel.app/)
 A comprehensive template system for Cursor IDE with AI-optimised `.cursorrules` files — ready-to-use project configurations for modern AI-assisted development.
 
-### 📐 [genaipatterns-dev](https://github.com/sangampandey/genaipatterns-dev)
-Production patterns and infographic series for GenAI system design — covering orchestrator/worker architectures, dark factory harness engineering, and more.
-
-### 🏗️ agnobuilder.com
+### 🏗️ [agnobuilder.com](https://www.agnobuilder.com/)
 A visual drag-and-drop workflow builder for creating and managing Agno AI agents and teams — enabling complex multi-agent pipelines without boilerplate.
-
-### 📱 nutrisnap-app
-AI-powered nutrition tracking via React Native/Expo — photograph meals for instant calorie/macro breakdowns using a multimodal AI pipeline.
-
-### 📰 [ai-trend-newsletter](https://github.com/sangampandey/ai-trend-newsletter)
-Curated AI trend content engine tracking signal from noise across the agentic AI landscape.
 
 ---
 
@@ -105,8 +102,8 @@ Curated AI trend content engine tracking signal from noise across the agentic AI
 I write about the practical realities of deploying AI in enterprise — the architectural trade-offs, the orchestration patterns that actually scale, and what the agentic shift means for digital teams.
 
 - 📖 **Blog**: [sangampandey.info](https://sangampandey.info)
-- 💡 **GenAI Patterns**: Infographic series on real-world AI architectures
-- 🌐 **Vibe Coding AE**: AI-assisted development community for the region
+- 💡 **GenAI Patterns**: [genaipatterns.dev](https://genaipatterns.dev/) — Infographic series on real-world AI architectures
+- 🌐 **Vibe Coding AE**: [vibecoding.ae](https://vibecoding.ae) — AI-assisted development community for the region
 
 ---
 
